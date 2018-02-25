@@ -13,6 +13,7 @@ namespace Algorithms.Abstraction
 
         void CheckBattery(); //Dev
 
+        void RemoteStart();
 
     }
 
