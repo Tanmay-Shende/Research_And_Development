@@ -11,6 +11,7 @@ namespace Algorithms.Abstraction
 
         void Stop();
 
+        void Park();
 
     }
 
