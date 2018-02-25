@@ -14,6 +14,9 @@ namespace Algorithms.Abstraction
         void CheckCarHealth();//Release Branch
 
 
+        void CheckBattery(); //Dev
+
+        void RemoteStart();
 
     }
 
