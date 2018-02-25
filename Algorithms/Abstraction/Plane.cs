@@ -11,6 +11,8 @@ namespace Algorithms.Abstraction
 
         void Stop();//Added Comment.
 
+        void CheckBattery(); //Dev
+
 
     }
 
